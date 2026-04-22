@@ -28,7 +28,7 @@ The transition started in january. This repo is the paper trail.
 ## 🚀 Projects
 
 > **AWS Project** — Dockerized app deployed to EC2 via ECR, SSH hardened to port 4444, infrastructure automated with Ansible.
-> [→ See the project](https://github.com/Sadnik/devops-journey/tree/main/aws-project)
+> [→ See the project](https://github.com/Sadnik/devops-journey/tree/master/aws-project)
 
 ---
 
@@ -36,8 +36,8 @@ The transition started in january. This repo is the paper trail.
 
 | Folder | What it covers |
 |--------|---------------|
-| [linux/](https://github.com/Sadnik/devops-journey/tree/main/linux) | Bash scripting, fundamentals, daily exercises |
-| [aws-project/](https://github.com/Sadnik/devops-journey/tree/main/aws-project) | Docker + EC2 + Ansible hands-on project |
+| [linux/](https://github.com/Sadnik/devops-journey/tree/master/linux) | Bash scripting, fundamentals, daily exercises |
+| [aws-project/](https://github.com/Sadnik/devops-journey/tree/master/aws-project) | Docker + EC2 + Ansible hands-on project |
 
 ---
 
