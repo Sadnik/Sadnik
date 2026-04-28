@@ -38,8 +38,7 @@ The transition started in january. This repo is the paper trail.
 |--------|---------------|
 | [linux/](https://github.com/Sadnik/devops-journey/tree/main/linux) | Bash scripting, fundamentals, daily exercises |
 | [aws-project/](https://github.com/Sadnik/devops-journey/tree/main/aws-project) | Docker + EC2 + Ansible hands-on project |
-| [docker/](/Sadnik/devops-journey/tree/master/docker) | Docker basics, commands, networking and multi-container lab |
->>>>>>> 7167127 (Added docker to the README in the 'What's in this repo.)
+| [docker/](/https://github.com/Sadnik/devops-journey/tree/master/docker) | Docker basics, commands, networking and multi-container lab |
 
 ---
 
