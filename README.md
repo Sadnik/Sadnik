@@ -63,11 +63,6 @@ The transition started in january. This repo is the paper trail.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadnik&show_icons=true&theme=dark&hide_border=true)
-
----
 
 <div align="center">
 <sub>Built in public. Broken in public. Fixed in public.</sub>
