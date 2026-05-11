@@ -11,7 +11,7 @@ Full-time career transition since January 2026.
 
 ---
 
-## What I'm building
+## Finished Projects
 
 | Project | Stack |
 |---------|-------|
